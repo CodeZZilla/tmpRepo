@@ -1,0 +1,1035 @@
+[
+  {
+    "id": 16,
+    "model": "BLU EVO R 10/3",
+    "sku": "BLU EVO R 10/3",
+    "name": "Бойлер Ariston BLU EVO R 10/3",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 83.01,
+    "price": 87.50030000000001
+  },
+  {
+    "id": 17,
+    "model": "BLU EVO R 10U/3",
+    "sku": "BLU EVO R 10U/3",
+    "name": "Бойлер Ariston BLU EVO R 10U/3",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 95.94,
+    "price": 100.81819999999999
+  },
+  {
+    "id": 18,
+    "model": "BLU EVO R 15/3",
+    "sku": "BLU EVO R 15/3",
+    "name": "Бойлер Ariston BLU EVO R 15/3",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 92.15,
+    "price": 96.9145
+  },
+  {
+    "id": 19,
+    "model": "BLU EVO R 15 U/3",
+    "sku": "BLU EVO R 15 U/3",
+    "name": "Бойлер Ariston BLU EVO R 15 U/3",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 101.22,
+    "price": 106.25659999999999
+  },
+  {
+    "id": 20,
+    "model": "BLU EVO R 30/3",
+    "sku": "BLU EVO R 30/3",
+    "name": "Бойлер Ariston BLU EVO R 30/3",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 96.64,
+    "price": 101.5392
+  },
+  {
+    "id": 54,
+    "model": "ER 50 V",
+    "sku": "ER 50 V",
+    "name": "Бойлер GARANTERM ER 50 V",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 63.62,
+    "price": 67.5286
+  },
+  {
+    "id": 55,
+    "model": "ER 80 V",
+    "sku": "ER 80 V",
+    "name": "Бойлер GARANTERM ER 80 V",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 74.67,
+    "price": 78.9101
+  },
+  {
+    "id": 65,
+    "model": "FTG 100 SM V9",
+    "sku": "FTG 100 SM V9",
+    "name": "Бойлер Gorenje FTG 100 SM V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 309.06,
+    "price": 320.3318
+  },
+  {
+    "id": 67,
+    "model": "FTG 50 SM V9",
+    "sku": "FTG 50 SM V9",
+    "name": "Бойлер Gorenje FTG 50 SM V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 232.21,
+    "price": 241.1763
+  },
+  {
+    "id": 68,
+    "model": "FTG 80 SM V9",
+    "sku": "FTG 80 SM V9",
+    "name": "Бойлер Gorenje FTG 80 SM V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 253.9,
+    "price": 263.517
+  },
+  {
+    "id": 70,
+    "model": "GBF 100 SM V9",
+    "sku": "GBF 100 SM V9",
+    "name": "Бойлер Gorenje GBF 100 SM V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 193,
+    "price": 200.79
+  },
+  {
+    "id": 71,
+    "model": "GBF 100 UA",
+    "sku": "GBF 100 UA",
+    "name": "Бойлер Gorenje GBF 100 UA",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 166.76,
+    "price": 173.7628
+  },
+  {
+    "id": 72,
+    "model": "GBF 120 SMV9",
+    "sku": "GBF 120 SMV9",
+    "name": "Бойлер Gorenje GBF 120 SMV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 215.21,
+    "price": 223.6663
+  },
+  {
+    "id": 76,
+    "model": "GBF 80 SMV9",
+    "sku": "GBF 80 SMV9",
+    "name": "Бойлер Gorenje GBF 80 SMV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 179.65,
+    "price": 187.0395
+  },
+  {
+    "id": 77,
+    "model": "GBF 80 UA",
+    "sku": "GBF 80 UA",
+    "name": "Бойлер Gorenje GBF 80 UA",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 154.01,
+    "price": 160.63029999999998
+  },
+  {
+    "id": 79,
+    "model": "GT 10 O/B9",
+    "sku": "GT 10 O/B9",
+    "name": "Бойлер Gorenje GT 10 O/B9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 95.69,
+    "price": 100.5607
+  },
+  {
+    "id": 80,
+    "model": "GT 10 U",
+    "sku": "GT 10 U/B9",
+    "name": "Бойлер Gorenje GT 10 U (GT 10 U/B9)",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 90,
+    "price": 94.7
+  },
+  {
+    "id": 82,
+    "model": "GT 15 U/B9",
+    "sku": "GT 15 U/B9",
+    "name": "Бойлер Gorenje GT 15 U/B9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 109.2,
+    "price": 114.476
+  },
+  {
+    "id": 84,
+    "model": "OGB 100 SM V9",
+    "sku": "OGB 100 SM V9",
+    "name": "Бойлер Gorenje OGB 100 SM V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 276.93,
+    "price": 287.2379
+  },
+  {
+    "id": 87,
+    "model": "OGB 150 SMV9",
+    "sku": "OGB 150 SMV9",
+    "name": "Бойлер Gorenje OGB 150 SMV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 326,
+    "price": 337.78
+  },
+  {
+    "id": 90,
+    "model": "OGB 80 SMV9",
+    "sku": "OGB 80 SMV9",
+    "name": "Бойлер Gorenje OGB 80 SMV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 259.55,
+    "price": 269.3365
+  },
+  {
+    "id": 91,
+    "model": "OGBS 100 ORV9",
+    "sku": "OGBS 100 ORV9",
+    "name": "Бойлер Gorenje OGBS 100 ORV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 225.47,
+    "price": 234.2341
+  },
+  {
+    "id": 92,
+    "model": "OGBS 100 SMV9",
+    "sku": "OGBS 100 SMV9",
+    "name": "Бойлер Gorenje OGBS 100 SMV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 243,
+    "price": 252.29
+  },
+  {
+    "id": 93,
+    "model": "OGBS 50 ORV9",
+    "sku": "OGBS 50 ORV9",
+    "name": "Бойлер Gorenje OGBS 50 ORV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 192.47,
+    "price": 200.2441
+  },
+  {
+    "id": 95,
+    "model": "OGBS 80 ORV9",
+    "sku": "OGBS 80 ORV9",
+    "name": "Бойлер Gorenje OGBS 80 ORV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 213,
+    "price": 221.39
+  },
+  {
+    "id": 96,
+    "model": "OGBS 80 SMV9",
+    "sku": "OGBS 80 SMV9",
+    "name": "Бойлер Gorenje OGBS 80 SMV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 233.5,
+    "price": 242.505
+  },
+  {
+    "id": 101,
+    "model": "TGR 100 NG V9",
+    "sku": "TGR 100 NG V9",
+    "name": "Бойлер Gorenje TGR 100 NG V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 164.3,
+    "price": 171.229
+  },
+  {
+    "id": 108,
+    "model": "TGR 30 NG V9",
+    "sku": "TGR 30 NG V9",
+    "name": "Бойлер Gorenje TGR 30 NG V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 108.1,
+    "price": 113.34299999999999
+  },
+  {
+    "id": 109,
+    "model": "TGR 30 SNG V9",
+    "sku": "TGR 30 SNG V9",
+    "name": "Бойлер Gorenje TGR 30 SNG V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 106.6,
+    "price": 111.79799999999999
+  },
+  {
+    "id": 110,
+    "model": "TGR 50 NGV9",
+    "sku": "TGR 50 NGV9",
+    "name": "Бойлер Gorenje TGR 50 NGV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 114.6,
+    "price": 120.038
+  },
+  {
+    "id": 111,
+    "model": "TGR 50 SNG V9",
+    "sku": "TGR 50 SNG V9",
+    "name": "Бойлер Gorenje TGR 50 SNG V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 105,
+    "price": 110.15
+  },
+  {
+    "id": 113,
+    "model": "TGR 80 NG V9",
+    "sku": "TGR 80 NG V9",
+    "name": "Бойлер Gorenje TGR 80 NG V9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 124,
+    "price": 129.72
+  },
+  {
+    "id": 114,
+    "model": "TGR 80 SNGV9",
+    "sku": "TGR 80 SNGV9",
+    "name": "Бойлер Gorenje TGR 80 SNGV9",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 129,
+    "price": 134.87
+  },
+  {
+    "id": 121,
+    "model": "EV100DR optima DHE",
+    "sku": "EV100DR optima DHE",
+    "name": "Бойлер Willer EV100DR optima DHE",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 158.94,
+    "price": 165.7082
+  },
+  {
+    "id": 122,
+    "model": "EV30DR optima DHE",
+    "sku": "EV30DR optima",
+    "name": "Бойлер Willer EV30DR optima DHE",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 107.32,
+    "price": 112.5396
+  },
+  {
+    "id": 123,
+    "model": "EV80DR optima DHE",
+    "sku": "EV80DR optima DHE",
+    "name": "Бойлер Willer EV80DR optima DHE",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 113.58,
+    "price": 117.9874
+  },
+  {
+    "id": 124,
+    "model": "PA15R optima mini",
+    "sku": "PA15R optima mini",
+    "name": "Бойлер Willer PA15R optima mini",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 72.42,
+    "price": 75.5926
+  },
+  {
+    "id": 165,
+    "model": "H 10 O",
+    "sku": "H 10 O",
+    "name": "Бойлер THERMEX H 10 O",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 85.9,
+    "price": 90.477
+  },
+  {
+    "id": 166,
+    "model": "H 10 U",
+    "sku": "H 10 U",
+    "name": "Бойлер THERMEX H 10 U",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 81.23,
+    "price": 85.6669
+  },
+  {
+    "id": 173,
+    "model": "SPR 50 V",
+    "sku": "SPR 50 V",
+    "name": "Бойлер THERMEX SPR 50 V",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 127.91,
+    "price": 133.7473
+  },
+  {
+    "id": 174,
+    "model": "SPR 80 V",
+    "sku": "SPR 80 V",
+    "name": "Бойлер THERMEX SPR 80 V",
+    "category_id": 1013,
+    "category_name": "Бойлеры и водонагреватели",
+    "supl_price": 165.11,
+    "price": 172.06330000000003
+  },
+  {
+    "id": 184,
+    "model": "RAF49-E",
+    "sku": "RAF49-E",
+    "name": "Вентилятор Rotex RAF49-E",
+    "category_id": 62,
+    "category_name": "Вентиляторы",
+    "supl_price": 14.45,
+    "price": 16.883499999999998
+  },
+  {
+    "id": 185,
+    "model": "RAF50-E",
+    "sku": "RAF50-E",
+    "name": "Вентилятор Rotex RAF50-E",
+    "category_id": 62,
+    "category_name": "Вентиляторы",
+    "supl_price": 13.82,
+    "price": 16.2346
+  },
+  {
+    "id": 186,
+    "model": "RAF55-E",
+    "sku": "RAF55-E",
+    "name": "Вентилятор Rotex RAF55-E",
+    "category_id": 62,
+    "category_name": "Вентиляторы",
+    "supl_price": 21.44,
+    "price": 23.0832
+  },
+  {
+    "id": 187,
+    "model": "ST-FN8261",
+    "sku": "ST-FN8261",
+    "name": "Вентилятор SATURN ST-FN8261",
+    "category_id": 62,
+    "category_name": "Вентиляторы",
+    "supl_price": 23.43,
+    "price": 26.1329
+  },
+  {
+    "id": 238,
+    "model": "CH-S18FTXHV-B",
+    "sku": "CH-S18FTXHV-B",
+    "name": "Кондиционер Cooper&Hunter CH-S18FTXHV-B",
+    "category_id": 68,
+    "category_name": "Кондиционеры",
+    "supl_price": 1127.8,
+    "price": 1140.8
+  },
+  {
+    "id": 367,
+    "model": "CH-1000 EC",
+    "sku": "CH-1000 EC",
+    "name": "Обогреватель Cooper&Hunter CH-1000 EC",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 49.35,
+    "price": 53.35
+  },
+  {
+    "id": 368,
+    "model": "CH-1000 MC",
+    "sku": "CH-1000 MC",
+    "name": "Обогреватель Cooper&Hunter CH-1000 MC",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 45.14,
+    "price": 49.14
+  },
+  {
+    "id": 370,
+    "model": "CH-1500 EC",
+    "sku": "CH-1500 EC",
+    "name": "Обогреватель Cooper&Hunter CH-1500 EC",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 57.17,
+    "price": 61.17
+  },
+  {
+    "id": 373,
+    "model": "CH-2000 EC",
+    "sku": "CH-2000 EC",
+    "name": "Обогреватель Cooper&Hunter CH-2000 EC",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 59.8,
+    "price": 63.8
+  },
+  {
+    "id": 378,
+    "model": "HSX 2320F",
+    "sku": "HSX 2320F",
+    "name": "Обогреватель DeLonghi HSX 2320F",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 77.7,
+    "price": 81.7
+  },
+  {
+    "id": 389,
+    "model": "TRRS 0920 WH",
+    "sku": "TRRS 0920 WH",
+    "name": "Обогреватель DeLonghi TRRS 0920 WH",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 109.66,
+    "price": 115.66
+  },
+  {
+    "id": 422,
+    "model": "ST-HT0475",
+    "sku": "ST-HT0475",
+    "name": "Обогреватель SATURN ST-HT0475",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 29.65,
+    "price": 33.65
+  },
+  {
+    "id": 425,
+    "model": "ST-HT0481K",
+    "sku": "ST-HT0481K",
+    "name": "Обогреватель SATURN ST-HT0481K",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 10.87,
+    "price": 14.87
+  },
+  {
+    "id": 429,
+    "model": "ST-HT7645K",
+    "sku": "ST-HT7645K",
+    "name": "Обогреватель SATURN ST-HT7645K",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 7.75,
+    "price": 11.75
+  },
+  {
+    "id": 434,
+    "model": "ST-HT8663",
+    "sku": "ST-HT8663",
+    "name": "Обогреватель SATURN ST-HT8663",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 35.18,
+    "price": 39.18
+  },
+  {
+    "id": 454,
+    "model": "ТСМ 400 Black",
+    "sku": "ТСМ 400 Black",
+    "name": "Обогреватель Teploceramic ТСМ 400 Black",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 34.07,
+    "price": 38.07
+  },
+  {
+    "id": 455,
+    "model": "ТСМ 400 White",
+    "sku": "ТСМ 400 White",
+    "name": "Обогреватель Teploceramic ТСМ 400 White",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 34.2,
+    "price": 38.2
+  },
+  {
+    "id": 459,
+    "model": "ТСМ 450 (49733)",
+    "sku": "ТСМ 450 (49733)",
+    "name": "Обогреватель Teploceramic ТСМ 450 (49733)",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 48.18,
+    "price": 52.18
+  },
+  {
+    "id": 462,
+    "model": "ТСМ 600 (694425)",
+    "sku": "ТСМ 600 (694425)",
+    "name": "Обогреватель Teploceramic ТСМ 600 (694425)",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 59.04,
+    "price": 63.04
+  },
+  {
+    "id": 473,
+    "model": "ЭВНА-0,5/230С (мш)",
+    "sku": "ЭВНА-0,5/230С (мш)",
+    "name": "Обогреватель Термия ЭВНА-0,5/230С (мш)",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 27.36,
+    "price": 30.36
+  },
+  {
+    "id": 475,
+    "model": "ЭВНА-1,5/230Н2 (сш)",
+    "sku": "ЭВНА-1,5/230Н2сш",
+    "name": "Обогреватель Термия ЭВНА-1,5/230Н2 (сш) гарантия 12 мес.",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 33.22,
+    "price": 37.22
+  },
+  {
+    "id": 476,
+    "model": "ЭВНА-1,5/230С(мбш)",
+    "sku": "ЭВНА-1,5/230С(мбш)",
+    "name": "Обогреватель Термия ЭВНА-1,5/230С(мбш)",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 40.08,
+    "price": 44.08
+  },
+  {
+    "id": 479,
+    "model": "ЭВНА-2,0/230Смбш",
+    "sku": "ЭВНА-2,0/230С(мбш)",
+    "name": "Обогреватель Термия ЭВНА-2,0/230С(мбш)",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 44,
+    "price": 48
+  },
+  {
+    "id": 480,
+    "model": "ЭИПС-1,2/220",
+    "sku": "ЭИПС-1,2/220",
+    "name": "Обогреватель Термия ЭИПС-1,2/220",
+    "category_id": 71,
+    "category_name": "Обогреватели",
+    "supl_price": 15.64,
+    "price": 19.64
+  },
+  {
+    "id": 481,
+    "model": "LB 12",
+    "sku": "4211125/680.05/3",
+    "name": "Увлажнитель воздуха BEURER LB 12 (4211125/680.05/3)",
+    "category_id": 77,
+    "category_name": "Увлажнители, очистители воздуха",
+    "supl_price": 78.3,
+    "price": 82.649
+  },
+  {
+    "id": 492,
+    "model": "HDCC 32200 X",
+    "sku": "HDCC32200X",
+    "name": "Варочная поверхность Beko HDCC 32200 X",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 108.24,
+    "price": 123.24
+  },
+  {
+    "id": 493,
+    "model": "HDCE32200X",
+    "sku": "HDCE32200X",
+    "name": "Варочная поверхность Beko HDCE32200X",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 67.52,
+    "price": 82.52
+  },
+  {
+    "id": 494,
+    "model": "HDCG32220FX",
+    "sku": "HDCG32220FX",
+    "name": "Варочная поверхность Beko HDCG32220FX",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 93.4,
+    "price": 108.4
+  },
+  {
+    "id": 495,
+    "model": "HIC 64401",
+    "sku": "HIC64401",
+    "name": "Варочная поверхность Beko HIC 64401",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 193.94,
+    "price": 208.94
+  },
+  {
+    "id": 507,
+    "model": "HIZG 64120 B",
+    "sku": "HIZG64120B",
+    "name": "Варочная поверхность Beko HIZG 64120 B",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 70,
+    "price": 74.4
+  },
+  {
+    "id": 509,
+    "model": "HIZG 64120 X",
+    "sku": "HIZG64120X",
+    "name": "Варочная поверхность Beko HIZG 64120 X",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 74.78,
+    "price": 79.2756
+  },
+  {
+    "id": 552,
+    "model": "CLG 631 SPN",
+    "sku": "CLG631SPN",
+    "name": "Варочная поверхность CANDY CLG 631 SPN",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 131.22,
+    "price": 136.8444
+  },
+  {
+    "id": 553,
+    "model": "CLG 631 SPX",
+    "sku": "CLG631SPX",
+    "name": "Варочная поверхность CANDY CLG 631 SPX",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 124.93,
+    "price": 130.42860000000002
+  },
+  {
+    "id": 554,
+    "model": "CLG 64 PB",
+    "sku": "CLG64PB",
+    "name": "Варочная поверхность CANDY CLG 64 PB (CLG64PB)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 66.5,
+    "price": 70.83
+  },
+  {
+    "id": 555,
+    "model": "CLG 64 PN",
+    "sku": "CLG64PN",
+    "name": "Варочная поверхность CANDY CLG 64 PN",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 85,
+    "price": 89.7
+  },
+  {
+    "id": 557,
+    "model": "CLG 64 SPN",
+    "sku": "CLG64SPN",
+    "name": "Варочная поверхность CANDY CLG 64 SPN (CLG64SPN)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 127.02,
+    "price": 132.5604
+  },
+  {
+    "id": 558,
+    "model": "CLG 64 SPX",
+    "sku": "CLG64SPX",
+    "name": "Варочная поверхность CANDY CLG 64 SPX (CLG64SPX)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 123.38,
+    "price": 128.8476
+  },
+  {
+    "id": 562,
+    "model": "CPG 64 SPB",
+    "sku": "CPG64SPB",
+    "name": "Варочная поверхность CANDY CPG 64 SPB",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 107.91,
+    "price": 113.06819999999999
+  },
+  {
+    "id": 563,
+    "model": "CPG 64 SPN",
+    "sku": "CPG64SPN",
+    "name": "Варочная поверхность CANDY CPG 64 SPN",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 103.37,
+    "price": 108.43740000000001
+  },
+  {
+    "id": 567,
+    "model": "CVG 64 SG NX",
+    "sku": "CVG64SGNX",
+    "name": "Варочная поверхность CANDY CVG 64 SG NX (CVG64SGNX)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 153.85,
+    "price": 159.927
+  },
+  {
+    "id": 576,
+    "model": "EGD6576NOK",
+    "sku": "EGD6576NOK",
+    "name": "Варочная поверхность ELECTROLUX EGD6576NOK",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 417.58,
+    "price": 432.58
+  },
+  {
+    "id": 578,
+    "model": "EGG 93322 NX",
+    "sku": "EGG93322NX",
+    "name": "Варочная поверхность ELECTROLUX EGG 93322 NX (EGG93322NX)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 134.83,
+    "price": 149.83
+  },
+  {
+    "id": 602,
+    "model": "EHF 96547 SW",
+    "sku": "EHF96547SW",
+    "name": "Варочная поверхность ELECTROLUX EHF 96547 SW (EHF96547SW)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 420,
+    "price": 435
+  },
+  {
+    "id": 603,
+    "model": "EHF96547XK",
+    "sku": "6091811",
+    "name": "Варочная поверхность ELECTROLUX EHF96547XK (6091811)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 284.22,
+    "price": 299.22
+  },
+  {
+    "id": 604,
+    "model": "EHG 96341 FK",
+    "sku": "EHG96341FK",
+    "name": "Варочная поверхность ELECTROLUX EHG 96341 FK (EHG96341FK)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 535.97,
+    "price": 545.97
+  },
+  {
+    "id": 613,
+    "model": "EHV 56240 AK",
+    "sku": "EHV56240AK",
+    "name": "Варочная поверхность ELECTROLUX EHV 56240 AK (EHV56240AK)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 253.52,
+    "price": 268.52
+  },
+  {
+    "id": 747,
+    "model": "BHGI 63130",
+    "sku": "BHGI63130",
+    "name": "Варочная поверхность Hansa BHGI 63130 (BHGI63130)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 186.1,
+    "price": 201.1
+  },
+  {
+    "id": 748,
+    "model": "BHGW 63111035",
+    "sku": "BHGW63111035",
+    "name": "Варочная поверхность Hansa BHGW 63111035 (BHGW63111035)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 225.91,
+    "price": 240.91
+  },
+  {
+    "id": 749,
+    "model": "BHI 68077",
+    "sku": "BHI68077",
+    "name": "Варочная поверхность Hansa BHI 68077 (BHI68077)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 295.86,
+    "price": 310.86
+  },
+  {
+    "id": 756,
+    "model": "BHKS 61038",
+    "sku": "BHKS61038",
+    "name": "Варочная поверхность Hansa BHKS 61038 (BHKS61038)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 180.45,
+    "price": 187.059
+  },
+  {
+    "id": 783,
+    "model": "TH 6220 X/H2",
+    "sku": "TH 6220 X/H2",
+    "name": "Варочная поверхность INTERLINE TH 6220 X/H2",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 117.5,
+    "price": 132.5
+  },
+  {
+    "id": 830,
+    "model": "PFA 640 INOX LUXE",
+    "sku": "PFA 640 INOX LUXE",
+    "name": "Варочная поверхность PYRAMIDA PFA 640 INOX LUXE",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 222.36,
+    "price": 232.36
+  },
+  {
+    "id": 831,
+    "model": "PFE 641 BLACK RUSTICO",
+    "sku": "6038853",
+    "name": "Варочная поверхность PYRAMIDA PFE 641 BLACK RUSTICO (6038853)",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 224.32,
+    "price": 239.32
+  },
+  {
+    "id": 832,
+    "model": "PFE 641 IVORY RUSTICO",
+    "sku": "PFE 641 IVORY RUSTICO",
+    "name": "Варочная поверхность PYRAMIDA PFE 641 IVORY RUSTICO",
+    "category_id": 6,
+    "category_name": "Варочные поверхности",
+    "supl_price": 212.56,
+    "price": 222.56
+  },
+  {
+    "id": 4218,
+    "model": "WPG4035",
+    "sku": "WPG4035",
+    "name": "Триммер Remington WPG4035",
+    "category_id": 100,
+    "category_name": "Машинки для стрижки (триммеры)",
+    "supl_price": 46.27,
+    "price": 50.27
+  },
+  {
+    "id": 4220,
+    "model": "RHC160-T",
+    "sku": "RHC160-T",
+    "name": "Машинка для стрижки Rotex RHC160-T",
+    "category_id": 100,
+    "category_name": "Машинки для стрижки (триммеры)",
+    "supl_price": 17.53,
+    "price": 20.53
+  },
+  {
+    "id": 4223,
+    "model": "ST-HC1540",
+    "sku": "ST-HC1540",
+    "name": "Машинка для стрижки SATURN ST-HC1540",
+    "category_id": 100,
+    "category_name": "Машинки для стрижки (триммеры)",
+    "supl_price": 16.69,
+    "price": 20.69
+  },
+  {
+    "id": 4224,
+    "model": "ST-HC7381",
+    "sku": "ST-HC7381",
+    "name": "Машинка для стрижки SATURN ST-HC7381",
+    "category_id": 100,
+    "category_name": "Машинки для стрижки (триммеры)",
+    "supl_price": 8.19,
+    "price": 12.19
+  },
+  {
+    "id": 4227,
+    "model": "ST-HC7389",
+    "sku": "ST-HC7389",
+    "name": "Машинка для стрижки SATURN ST-HC7389",
+    "category_id": 100,
+    "category_name": "Машинки для стрижки (триммеры)",
+    "supl_price": 15.97,
+    "price": 18.97
+  },
+
+
+
+  {
+    "id": 73092,
+    "model": "KX-TPA60RUB",
+    "sku": "KX-TPA60RUB",
+    "name": "Дополнительная трубка Panasonic KX-TPA60RUB, для IP-DECT телефона KX-TGP600RUB",
+    "category_id": 315,
+    "category_name": "IP-, Skype-телефоны",
+    "supl_price": 66.26,
+    "price": 69.26
+  },
+  {
+    "id": 82243,
+    "model": "UC-CK",
+    "sku": "UC-CK",
+    "name": "NET CONTROLLER UNIFI CLOUD KEY/UC-CK UBIQUITI",
+    "category_id": 317,
+    "category_name": "Powerline-оборудование",
+    "supl_price": 89,
+    "price": 92
+  },
+  {
+    "id": 183901,
+    "model": "RoidMi 3S",
+    "sku": "1A081OVB",
+    "name": "Автомобильный MP3-FM модулятор Xiaomi RoidMi 3S (1A081OVB)",
+    "category_id": 1254,
+    "category_name": "MP3-FM трансмиттеры",
+    "supl_price": 14.51,
+    "price": 16.9453
+  }
+]
