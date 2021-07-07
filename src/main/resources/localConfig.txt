@@ -10,9 +10,9 @@ spring.data.rest.basePath=/api
 spring.datasource.hikari.maximumPoolSize=8
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.tomcat.initSQL=SET NAMES 'utf8mb4'
-spring.datasource.url=jdbc:mysql://localhost:3306/comtrading2?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Europe/Moscow
-spring.datasource.username=admin
-spring.datasource.password=LT6GVnhVTvjN_
+spring.datasource.url=jdbc:mysql://localhost:3306/comtrading?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Europe/Moscow
+spring.datasource.username=root
+spring.datasource.password=
 
 # JPA (JpaBaseConfiguration, HibernateJpaAutoConfiguration)
 spring.jpa.open-in-view=false
