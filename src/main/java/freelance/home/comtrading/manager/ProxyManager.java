@@ -25,7 +25,7 @@ public class ProxyManager {
         this.configService = configService;
     }
 
-    @Scheduled(fixedDelay = 60_000 * 25)
+    //@Scheduled(fixedDelay = 60_000 * 25)
     public void loadNewProxy() throws Exception {
         log.info("----------------- ПРОКСИЧЕКЕР [START] -----------------");
 
