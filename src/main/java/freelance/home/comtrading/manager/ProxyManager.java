@@ -63,7 +63,6 @@ public class ProxyManager {
         Proxy.REST_TIME = configService.getProxyRestTime() * 1_000;
 
         log.info("----------------- ПРОКСИЧЕКЕР [END] -----------------");
-        System.exit(0);
     }
 
     private void validProxies(String response) throws Exception {

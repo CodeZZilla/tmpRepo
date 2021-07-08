@@ -29,7 +29,7 @@ public class GoogleSearchManager {
         this.requestManager = requestManager;
     }
 
-    @Scheduled(fixedDelay = 500, initialDelay = 100)
+    //@Scheduled(fixedDelay = 500, initialDelay = 100)
     public void findHotLineUrs() throws Exception {
 
         // 1. Получаем задачу на загрузку
