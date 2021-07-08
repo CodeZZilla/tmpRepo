@@ -25,7 +25,7 @@ public class ProxyManager {
         this.configService = configService;
     }
 
-    //@Scheduled(fixedDelay = 60_000 * 25)
+    @Scheduled(fixedDelay = 60_000 * 25)
     public void loadNewProxy() throws Exception {
         log.info("----------------- ПРОКСИЧЕКЕР [START] -----------------");
 
@@ -63,7 +63,7 @@ public class ProxyManager {
         Proxy.REST_TIME = configService.getProxyRestTime() * 1_000;
 
         log.info("----------------- ПРОКСИЧЕКЕР [END] -----------------");
-//        System.exit(0);
+        System.exit(0);
     }
 
     private void validProxies(String response) throws Exception {
