@@ -26,7 +26,7 @@ public class ImportManager {
         this.itemService = itemService;
     }
 
-    @Scheduled(fixedDelay = 500000000, initialDelay = 100)
+    //@Scheduled(fixedDelay = 500000000, initialDelay = 100)
     public void importFeed() throws IOException {
         System.out.println("--------------------------------");
         JsonNode jsonFeedNode = jsonMapper.readTree(
