@@ -28,7 +28,7 @@ public class CacheProcessingManager {
         this.cacheService = cacheService;
     }
 
-    //@Scheduled(fixedDelay = 10000, initialDelay = 1000)
+    @Scheduled(fixedDelay = 10000, initialDelay = 1000)
     public void findHotLineUrs() {
         long startTime = new Date().getTime();
 
