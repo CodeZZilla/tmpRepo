@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>freelance.home</groupId>
-	<artifactId>comtradingServer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>comtraidServer</name>
+	<artifactId>comtraidView</artifactId>
+	<version>0.0.1</version>
+	<name>comtraidView</name>
 	<description>Главный сервер агрегатора comtraid</description>
 
 	<properties>
