@@ -64,7 +64,7 @@ $(function () {
         'click .save': function (e, value, row, index) {
             let tableRow = $table.find(`tr[data-index=${index}]`).first();
 
-            $.get(`/updateUrl?feedId=${row.feedId}&url=${tableRow.find("a.link").href()}`)
+            $.get(`/updateUrl?feedId=${row.feedId}&url=${tableRow.find("a.link").attr('href')}`)
                 .fail(() => alert("Не удалось сохранить ссылку"));
 
             tableRow.find(".status").text('CONFIRMED');
