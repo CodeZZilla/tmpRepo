@@ -24,7 +24,7 @@ $(function () {
             '<i class="fa fa-trash"></i>',
             '</a>',
             `<a class="save" href="javascript:void(0)" title="save">`,
-            '<i class="fa fa-check"></i>',
+            '<i class="fa fa-save"></i>',
             '</a>  ',
         ].join('')
     }
@@ -46,6 +46,9 @@ $(function () {
             tableRow.find("a.check").css("display", "none");
 
             $.get(`/updateUrl?feedId=${row.feedId}&url=${tableRow.find("input.link").val()}`)
+                .done(() => {
+                    tableRow.find(".status").text('CONFIRMED');
+                })
                 .fail(() => alert("Не удалось сохранить ссылку"));
 
             tableRow.find("a.link").text(tableRow.find("input.link").val());
@@ -65,9 +68,10 @@ $(function () {
             let tableRow = $table.find(`tr[data-index=${index}]`).first();
 
             $.get(`/updateUrl?feedId=${row.feedId}&url=${tableRow.find("a.link").attr('href')}`)
+                .done(() => {
+                    tableRow.find(".status").text('CONFIRMED');
+                })
                 .fail(() => alert("Не удалось сохранить ссылку"));
-
-            tableRow.find(".status").text('CONFIRMED');
         }
     }
 
@@ -119,13 +123,19 @@ $(function () {
         }
 
         function statusFormatter(value, row, index) {
-            switch(row.parseStatus) {
-                case "UNKNOWN": return "UNKNOWN";
-                case "CONFIRMED": return "CONFIRMED";
-                case "GOOD": return "GOOD";
-                case "BAD": return "BAD";
-                case "NOT_FOUND": return "NOT_FOUND";
-                default: return "ERROR";
+            switch (row.parseStatus) {
+                case "UNKNOWN":
+                    return "UNKNOWN";
+                case "CONFIRMED":
+                    return "CONFIRMED";
+                case "GOOD":
+                    return "GOOD";
+                case "BAD":
+                    return "BAD";
+                case "NOT_FOUND":
+                    return "NOT_FOUND";
+                default:
+                    return "ERROR";
             }
         }
     }
