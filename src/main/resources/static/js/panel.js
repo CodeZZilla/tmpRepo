@@ -22,7 +22,10 @@ $(function () {
             '</a>  ',
             '<a class="remove" href="javascript:void(0)" title="Remove">',
             '<i class="fa fa-trash"></i>',
-            '</a>'
+            '</a>',
+            `<a class="save" href="javascript:void(0)" title="save">`,
+            '<i class="fa fa-check"></i>',
+            '</a>  ',
         ].join('')
     }
 
@@ -57,6 +60,14 @@ $(function () {
             //     field: 'id',
             //     values: [row.id]
             // })
+        },
+        'click .save': function (e, value, row, index) {
+            let tableRow = $table.find(`tr[data-index=${index}]`).first();
+
+            $.get(`/updateUrl?feedId=${row.feedId}&url=${tableRow.find("input.link").val()}`)
+                .fail(() => alert("Не удалось сохранить ссылку"));
+
+            tableRow.find(".status").text('CONFIRMED');
         }
     }
 
