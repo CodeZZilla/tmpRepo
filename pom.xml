@@ -15,9 +15,9 @@
 	<description>Главный сервер агрегатора comtraid</description>
 
 	<properties>
-		<java.version>15</java.version>
-		<maven.compiler.target>15</maven.compiler.target>
-		<maven.compiler.source>15</maven.compiler.source>
+		<java.version>16</java.version>
+		<maven.compiler.target>16</maven.compiler.target>
+		<maven.compiler.source>16</maven.compiler.source>
 	</properties>
 
 	<dependencies>
